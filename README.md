@@ -4,7 +4,7 @@ The Highly (Scalable) Incremental Pattern matching Engine (HiPE) is a tool to su
 Currently, it is used in the EMF-based general-purpose graph and model transformation tool eMoflon.
 
 Updatesite:
-**to-be-announced**
+https://github.com/HiPE-DevOps/HiPE-Updatesite
 
 Documentation:
 **to-be-announced**
