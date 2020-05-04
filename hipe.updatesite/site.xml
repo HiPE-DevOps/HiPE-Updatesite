@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/hipe.feature_1.0.0.202004171141.jar" id="hipe.feature" version="1.0.0.202004171141">
+   <feature url="features/hipe.feature_1.0.0.202005041227.jar" id="hipe.feature" version="1.0.0.202005041227">
       <category name="hipe"/>
    </feature>
    <category-def name="hipe" label="HiPE"/>
