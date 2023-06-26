@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use HiPE in your research, please cite it using these metadata."
+abstract: The Highly (Scalable) Incremental Pattern matching Engine (HiPE) is a tool to support parallel pattern matching. Currently, it is used in the EMF-based general-purpose graph and model transformation tool eMoflon.
+authors:
+  - name: HiPE-DevOps
+    website: https://github.com/HiPE-DevOps
+title: Highly (Scalable) Incremental Pattern matching Engine (HiPE)
+version: 1.0.0.202205040155
+date-released: 2022-05-04
+repository-code: "https://github.com/HiPE-DevOps/HiPE-Updatesite"
+keywords:
+  - "model-driven software engineering"
+  - "eclipse modeling framework"
+  - pattern-matching
+  - model
+  - emoflon
+  - "graph transformation"
+  - parallelization
+  - "parallel pattern-matching"
+license: "GPL-3.0"
